@@ -1,0 +1,16 @@
+supplier,description,amount,invoice_id,transaction_date,category
+Acme Office Supplies,Printer paper and toner cartridges,18450.00,INV-1001,2026-09-03,Office Supplies
+ACME Office Supply,Printer toner cartridge replenishment,18450.00,INV-1001,2026-09-03,Office Supplies
+Northstar Cloud Services,Monthly cloud hosting and compute,72800.00,INV-1002,2026-09-04,Cloud & Software
+Greenfield Logistics,Regional freight and delivery charges,35600.00,INV-1003,2026-09-05,Logistics
+Metro Telecom,Mobile voice and data plans,12990.00,INV-1004,2026-09-06,Telecom
+Brightline Consulting,Technology implementation advisory,112000.00,INV-1005,2026-09-08,Professional Services
+Vertex Cloud,Annual SaaS collaboration licenses,48600.00,INV-1006,2026-09-09,Cloud & Software
+Citywide Couriers,Same-day document delivery,4250.00,INV-1007,2026-09-10,Logistics
+OfficeHub India,Ergonomic chairs for workspace,67900.00,INV-1008,2026-09-11,Office Supplies
+Northstar Cloud Svc,Cloud storage and backup subscription,15300.00,INV-1009,2026-09-12,Cloud & Software
+PeopleFirst Benefits,Employee medical insurance premium,91500.00,INV-1010,2026-09-13,Human Resources
+Brightline Advisory,Consulting support for process review,58500.00,INV-1011,2026-09-15,Professional Services
+Metro Telecom India,Office internet connectivity,8400.00,INV-1012,2026-09-17,Telecom
+Greenfield Freight,Interstate shipment and handling,22900.00,INV-1013,2026-09-18,Logistics
+People First HR,Recruitment platform subscription,21400.00,INV-1014,2026-09-20,Human Resources
